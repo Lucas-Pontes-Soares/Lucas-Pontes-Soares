@@ -8,5 +8,6 @@
 <div>
   <h1>Contato: </h1>
   <a href="https://www.linkedin.com/in/lucas-pontes-soares-88a211216/">LinkedIn: Lucas Pontes Soares</a>
+  <a href="emailto lucas.soares177@etec.sp.gov.br">Email: lucas.soares177@etec.sp.gov.br</a>
  <div>
 
