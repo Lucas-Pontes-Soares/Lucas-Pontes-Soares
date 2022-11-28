@@ -14,9 +14,9 @@
  
 <div>
   <h1>Projetos: </h1>
-  <h2>LaCafezito: </h2>
-  <img height="150px"src="imagens/LaCafezitoLogin.png">
-  <img height="150px"src="imagens/LaCafezitoHome.png">
-  <img height="150px"src="imagens/LaCafezitoAdmin.png">
+  <h4>LaCafezito: </h4>
+  <img height="130px"src="imagens/LaCafezitoLogin.png">
+  <img height="130px"src="imagens/LaCafezitoHome.png">
+  <img height="130px"src="imagens/LaCafezitoAdmin.png">
 </div>
  
