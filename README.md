@@ -18,5 +18,7 @@
   <img height="130px"src="imagens/LaCafezitoLogin.png">
   <img height="130px"src="imagens/LaCafezitoHome.png">
   <img height="130px"src="imagens/LaCafezitoAdmin.png">
+  <h4>Aim Test: </h4>
+  <img height="130px"src="imagens/alvo.png">
 </div>
  
