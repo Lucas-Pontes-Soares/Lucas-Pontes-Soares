@@ -18,7 +18,6 @@
 <div>
   <h1>Contato: </h1>
   <img height="30px"src="imagens/linkedin1.png"><a href="https://www.linkedin.com/in/lucas-pontes-soares-88a211216/">LinkedIn: Lucas Pontes Soares</a> <br>
-  <img height="30px"src="imagens/email1.png"><a href="emailto lucas.soares177@etec.sp.gov.br">Email: lucas.soares177@etec.sp.gov.br</a><br>
   <img height="30px"src="imagens/email1.png"><a href="emailto lucas.soares177@etec.sp.gov.br">Email: eterneru.lucas@outlook.com</a>
  </div>
  
