@@ -2,7 +2,9 @@
 
 Desenvolvedor Full-Stack
 
-<a href="https://www.linkedin.com/in/lucas-pontes-soares" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:lucasps.dev@outlook.com" target="_blank"><img src="https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>&nbsp;&nbsp;<a href="https://portfolio-b5wg.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/PORTFÓLIO-339933?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfólio"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-pontes-soares)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook)](mailto:lucasps.dev@outlook.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-339933?style=for-the-badge)](https://portfolio-b5wg.onrender.com/)
 
 #
 
