@@ -17,8 +17,8 @@
 
 <div>
   <h1>Contato: </h1>
-  <img height="30px"src="imagens/linkedin1.png"><a href="https://www.linkedin.com/in/lucas-pontes-soares-88a211216/">LinkedIn: Lucas Pontes Soares</a> <br>
-  <img height="30px"src="imagens/email1.png"><a href="emailto lucas.soares177@etec.sp.gov.br">Email: eterneru.lucas@outlook.com</a>
+  <a href="https://www.linkedin.com/in/lucas-pontes-soares" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:lucasps.dev@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">lucasps.dev@outlook.com</a>
  </div>
  
 <div>
