@@ -1,6 +1,6 @@
 ### Lucas Pontes Soares
 
-> Desenvolvedor Full-Stack
+> Desenvolvedor Junior Full-Stack com foco em Back-end
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-pontes-soares)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook)](mailto:lucasps.dev@outlook.com)
