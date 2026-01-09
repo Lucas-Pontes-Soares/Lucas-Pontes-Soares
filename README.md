@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-pontes-soares)
 [![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=E-mail)](mailto:lucasps.dev@outlook.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-339933?style=for-the-badge)](https://portfolio-b5wg.onrender.com/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-339933?style=for-the-badge)](https://lucas-pontes-soares.github.io/portfolio)
 
 #
 
