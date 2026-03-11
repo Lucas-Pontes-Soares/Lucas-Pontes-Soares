@@ -10,7 +10,7 @@
 
 ### 🙋‍♂️ Sobre Mim
 
-Sou apaixonado por tecnologia, com grande foco em **lógica**, **algoritmos**, **estrutura de dados** e **back-end**. No entanto, não me limito a essas áreas, pois estou sempre disposto a aprender e aplicar novas tecnologias.
+Sou apaixonado por tecnologia, com grande foco em **lógica**, **algoritmos**, **estrutura de dados**, **back-end** e **inteligência artificial**. No entanto, não me limito a essas áreas, pois estou sempre disposto a aprender e aplicar novas tecnologias.
 
 <br> 
 
@@ -26,12 +26,14 @@ Sou apaixonado por tecnologia, com grande foco em **lógica**, **algoritmos**, *
 <p style="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px" alt="NodeJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" alt="ReactJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40px" height="40px" alt="NestJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" height="40px" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40px" height="40px" alt="RabbitMQ" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" height="40px" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" height="40px" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40px" height="40px" alt="Redis" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" height="40px" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" alt="Git" />
 </p>
