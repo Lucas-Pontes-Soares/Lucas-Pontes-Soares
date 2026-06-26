@@ -69,79 +69,87 @@ Tenho forte inclinação para resolução de problemas complexos utilizando arqu
 
 #### 🛠️ Engenharia, Arquitetura & Microsserviços
 
-* 🚀 **[Rocketseat: Desafio Microsserviços Escaláveis Nodejs](https://github.com/Lucas-Pontes-Soares/desafio-microsservicos-escalaveis-nodejs)** | Fev 2026 - Fev 2026
-  * Desenvolvimento de ecossistema baseado em microsserviços independentes, focando em alta disponibilidade de maneira escalável.
+* 🚀 **[Rocketseat: Desafio Microsserviços Escaláveis Nodejs](https://github.com/Lucas-Pontes-Soares/desafio-microsservicos-escalaveis-nodejs)** | Fev 2026 - Fev 2026  
+Desenvolvimento de ecossistema baseado em microsserviços independentes, focando em alta disponibilidade de maneira escalável.
   * Desenvolvi comunicação assincrona com RabbitMQ.
   * Modelei e criei as tabelas no PostgreSQL com migrations.
   * Implementei observabilidade com Grafana e Jaeger (logging e tracing).
   * Apliquei conceitos de DDD, conceitos de consistência eventual e replicação de dados entre microsserviços.
   * Configurei Docker para subir o banco de dados e RabbitMQ.
   * Automatizei o deploy na AWS Fargete via Pulumi.
-  * `TAGS:` Node.js, RabbitMQ, Docker, PostgreSQL (SQL), Grafana, Jaeger, AWS, Git, Github Actions, CI, CD.
 
-* 📚 **[Nest.JS Library API - Projeto pessoal de Nest.](https://github.com/Lucas-Pontes-Soares/nest-library-api)** | Mar 2026 - Abr 2026
-  * Uma api para uma biblioteca física, com usuarios (client/librarian), fazer reserva e reviews, com controle de autenticação e permissões.
+  `TAGS:` Node.js, RabbitMQ, Docker, PostgreSQL (SQL), Grafana, Jaeger, AWS, Git, Github Actions, CI, CD.
+
+* 📚 **[Nest.JS Library API - Projeto pessoal de Nest.](https://github.com/Lucas-Pontes-Soares/nest-library-api)** | Mar 2026 - Abr 2026  
+Uma api para uma biblioteca física, com usuarios (client/librarian), fazer reserva e reviews, com controle de autenticação e permissões.
   * Apliquei práticas, separando em módulos cada um com repositories, dtos, controllers, interfaces, services e SOLID;
   * Implementei autenticação por tokens JWT, utilizei Guard para verificação;
   * Desenvolvi com banco de dados SQL, com o PostgreSQL, através do Drizzle;
   * Desenvolvi logica de roles/permissões, com separando entre client/librarian, e utilizei Guard para permissões;
   * Implementei as permissões no arquivo permissions.ts, que cada usuario tem funções, que precisa possuir para executar.
-  * `TAGS:` Nest.JS, Node.JS, POO, SOLID, Typescript, Git, PostgreSQL, Drizzle, Roles, RBAC, ABAC, JWT.
 
-* 🧪 **[Back-end TDD Node com Testes Unitários, Integração e E2E. - Curso Rocketseat.](https://github.com/Lucas-Pontes-Soares/node-testable-apps)** | Abr 2026 - Abr 2026
-  * Projeto de agendamentos de uma barbearia. Criando testes unitários usando SOLID através do Vitest.
+  `TAGS:` Nest.JS, Node.JS, POO, SOLID, Typescript, Git, PostgreSQL, Drizzle, Roles, RBAC, ABAC, JWT.
+
+* 🧪 **[Back-end TDD Node com Testes Unitários, Integração e E2E. - Curso Rocketseat.](https://github.com/Lucas-Pontes-Soares/node-testable-apps)** | Abr 2026 - Abr 2026  
+Projeto de agendamentos de uma barbearia. Criando testes unitários usando SOLID através do Vitest.
   * Estudei sobre conceitos de Testes Unitários, de Integração e E2E;
   * Utilizei conceitos do SOLID, inversão de dependências e POO;
   * Construi um serviço independente de banco de dados, uma aplicação isolada;
   * Desenvolvi testes unitários com Vitest no Node.js, para validar dados e datas.
-  * `TAGS:` Node.JS, Typescript, Git, TDD, Vitest, Tests, Unit Tests, Integration Tests, E2E Tests, SOLID, POO.
 
-* 🎮 **[Games Spring - Projeto Java Spring Boot.](https://github.com/Lucas-Pontes-Soares/games-spring)** | Jan 2025 - Jan 2025
-  * Projeto em Java Spring Boot, com Front-end (JSP) e Back-end, banco de dados SQL. CRUD de games, com jogo, categoria, plataforma.
+  `TAGS:` Node.JS, Typescript, Git, TDD, Vitest, Tests, Unit Tests, Integration Tests, E2E Tests, SOLID, POO.
+
+* 🎮 **[Games Spring - Projeto Java Spring Boot.](https://github.com/Lucas-Pontes-Soares/games-spring)** | Jan 2025 - Jan 2025  
+Projeto em Java Spring Boot, com Front-end (JSP) e Back-end, banco de dados SQL. CRUD de games, com jogo, categoria, plataforma.
   * Utilizei docker-compose para subir o banco de dados SQL;
   * Trabalhei no Spring Boot com Controllers, Models e Repositories;
   * Construi a interface com JSP com o CRUD completo do jogo, categoria e plataforma;
   * Trabalhei com rotas e metodos HTTP, parámetros e retornos na API.
-  * `TAGS:` Java, Spring Boot, Gradle, JSP, SQL, Docker, HTML, CSS.
+
+  `TAGS:` Java, Spring Boot, Gradle, JSP, SQL, Docker, HTML, CSS.
 
 ---
 
 #### 🧠 Inteligência Artificial, Inovação & Agentes
 
-* 🔥 **[DevRoast - NLW Operator Rocketseat](https://github.com/Lucas-Pontes-Soares/devroast)** | Mar 2026 - Mar 2026
-  * Um analisador de qualidade de codigo via IA. Melhores práticas de vibe coding, com agentes, MCPs, skills, prompts.
+* 🔥 **[DevRoast - NLW Operator Rocketseat](https://github.com/Lucas-Pontes-Soares/devroast)** | Mar 2026 - Mar 2026  
+Um analisador de qualidade de codigo via IA. Melhores práticas de vibe coding, com agentes, MCPs, skills, prompts.
   * Integrei o Claude Code com MCPs, skills, e prompt engineering nos agentes e mentalidade de Human-in-the-loop;
   * Apliquei conceito de 'plan' estruturar as specs primeiro, analisar e ajustar para depois ir para o 'build';
   * Desenvolvi o front-end com Next.JS e back-end com Node.JS e PostgreSQL;
   * Fiz a lógica de análisar o código enviado atráves de API do Gemini e estruturação da resposta via JSON.
-  * `TAGS:` Next.JS, Node.JS, IA, Prompt Engineering, Gemini, Claude Code, MCP, Skills, Typescript, tailwind-css, Base-ui, PostgreSQL.
 
-* 🩺 **[Avanti Intelligence - IA para detectar pneumonia](https://github.com/Lucas-Pontes-Soares/avanti-intelligence)** | Mai 2025 - Out 2025
-  * Projeto para apresentar no evento da Geniuscon 2025 em Jacarezinho, conseguimos chegar nas finais.
+  `TAGS:` Next.JS, Node.JS, IA, Prompt Engineering, Gemini, Claude Code, MCP, Skills, Typescript, tailwind-css, Base-ui, PostgreSQL.
+
+* 🩺 **[Avanti Intelligence - IA para detectar pneumonia](https://github.com/Lucas-Pontes-Soares/avanti-intelligence)** | Mai 2025 - Out 2025  
+Projeto para apresentar no evento da Geniuscon 2025 em Jacarezinho, conseguimos chegar nas finais.
   * Apresentamos a nossa ideia e o projeto na palestra do evento, e em nosso estande do evento;
   * Desenvolvemos a IA, modelo, treinando através de um dataset real de imagens de raio-x de torax;
   * Analisamos o resultados e conseguimos obter 90% de acerto quando o paciente tinha a doença;
   * Aplicamos o conceito de separar e treinamento, validação, teste;
   * Desenvolvi o front-end responsivo do nosso site para apresentar nosso projeto, e importei o modelo para testes.
-  * `TAGS:` IA, Python, CNN, React.js, Git, tailwind-css, shadcn-ui, Apresentação Técnico, Workshops, Palestras.
 
-* 🎓 **[Dumble: Sistema Educacional Com Inteligência Artificial](https://github.com/Lucas-Pontes-Soares/dumble)** | Fev 2025 - Dez 2025
-  * Projeto integrador da faculdade, uma plataforma web interativa que centraliza o ensino para fortalecer o vínculo professor-aluno.
+  `TAGS:` IA, Python, CNN, React.js, Git, tailwind-css, shadcn-ui, Apresentação Técnica, Workshops, Palestras.
+
+* 🎓 **[Dumble: Sistema Educacional Com Inteligência Artificial](https://github.com/Lucas-Pontes-Soares/dumble)** | Fev 2025 - Dez 2025  
+Projeto integrador da faculdade, uma plataforma web interativa que centraliza o ensino para fortalecer o vínculo professor-aluno.
   * Desenvolvi a parte da IA com RAG, onde os professores anexavam arquivos e o conteudo deles eram disponibilizados para a IA.
   * Construi os prompts rigorosos e estruturados de IA, para o chat-bot e a sugestão de perguntas.
   * Desenvolvi o front-end de maneira responsiva.
   * Implementei autenticação de usuários via tokens JWT.
   * Administrei e realizei o deploy (hospedagem).
-  * `TAGS:` IA, Node.js, React.js, PostgreSQL (SQL), RAG, JWT, Heroku, Git, tailwind-css, shadcn-ui.
+
+  `TAGS:` IA, Node.js, React.js, PostgreSQL (SQL), RAG, JWT, Heroku, Git, tailwind-css, shadcn-ui.
 
 ---
 
 #### 🌐 Infraestrutura & Cloud
 
-* ☁️ **[Projeto Kubernetes](https://github.com/Lucas-Pontes-Soares/atividade-interdisciplinar-kubernetes)** | Out 2025 - Out 2025
-  * Um site par trabalhar com docker e implementar kubernetes para hospedar na Azure.
+* ☁️ **[Projeto Kubernetes](https://github.com/Lucas-Pontes-Soares/atividade-interdisciplinar-kubernetes)** | Out 2025 - Out 2025  
+Um site par trabalhar com docker e implementar kubernetes para hospedar na Azure.
   * Configurei o Docker para empacotar o site junto com o servidor Nginx e publiquei a imagem no Docker Hub;
   * Implementei CI, com Github Actions, para verificar o código a cada push, inspecionando todo o HTML e CSS;
   * Configurei o Kubernetes na Azure (AKS) para rodar com 2 pods;
   * Hospedei os site com docker utilizando Kubernetes na Azure.
-  * `TAGS:` Docker, DockerHub, CI, CD, Github, Git, Github Actions, Azure, Kubernetes.
+
+  `TAGS:` Docker, DockerHub, CI, CD, Github, Git, Github Actions, Azure, Kubernetes.
