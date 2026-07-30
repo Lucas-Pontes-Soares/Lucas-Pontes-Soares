@@ -56,8 +56,8 @@ Tenho forte inclinação para resolução de problemas complexos utilizando arqu
 
 ### 💼 Experiência Profissional
 
-#### IRIZ SOLUÇÕES EM T.I (Março 2024 — Outubro 2025)
-*Desenvolvedor Full-Stack / Estagiário de Programação*
+#### Desenvolvedor Full-Stack
+IRIZ SOLUÇÕES EM T.I | Estágio (Março 2024 — Outubro 2025)
 * Atuei no desenvolvimento e evolução de sistemas críticos do core business de clientes, como ERPs e e-commerces.
 * **Performance Otimizada:** Implementei paginação eficiente em APIs, reduzindo tempos de resposta de requisições críticas de **15 minutos para apenas 1 segundo**.
 * **Integração Financeira e Fiscal:** Implementei gateways de pagamento (Stripe e Pagar.me) consumindo Webhooks/APIs e estruturei módulos de emissão de Notas Fiscais Eletrônicas (NFe) para sistemas de prefeituras.
